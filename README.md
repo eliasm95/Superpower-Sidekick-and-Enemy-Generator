@@ -10,7 +10,7 @@
 
 ## Code Details
 
-*By reviewing the code, you will see that we have a **function called superhero** that **returns an object** with information about your superpower, your sidekick and the villain you have to defeat. The object contains four (4) methods: **yourSuperpower()**, **generator()**, **yourSidekick()** and **yourEnemy()**.
+*By reviewing the code, you will see that we have a **function called superhero** that **returns an object** with information about your superpower, your sidekick and the villain you have to defeat. The object contains four (4) methods: **yourSuperpower()**, **generator()**, **yourSidekick()** and **yourEnemy()**.*
 
 + **yourSuperpower()** method gives a random superpower from an array with various listed superpowers.
 
