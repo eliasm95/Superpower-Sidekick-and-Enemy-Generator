@@ -26,7 +26,7 @@ const superhero = () =>
         //Method yourEnemy uses method generator to produce a random villain
         yourEnemy()
         {
-            return `Your villain is: ${this.generator()}`;
+            return `Your enemy is: ${this.generator()}`;
         }    
     };
     return object;
